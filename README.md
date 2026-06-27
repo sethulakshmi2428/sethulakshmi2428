@@ -44,5 +44,5 @@
 
 ## Connect with Me
 
-- [Mail](sethulakshmivs2k03@gmail.com)
-- [LinkedIn](www.linkedin.com/in/sethulakshmivs)
+- [Mail](mailto:sethulakshmivs2k03@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/sethulakshmivs)
