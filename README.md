@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sethulakshmi V S</h1>
+<h3 align="center">Full Stack Developer | React | Node.js | MongoDB | Express.js</h3>
 
-<!--
-**sethulakshmi2428/sethulakshmi2428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about building modern web applications that solve real-world problems.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+- MERN Full Stack Developer
+- Currently learning **MERN Stack** and **REST APIs**
+- Interested in Full Stack Web Development
+- Love building practical applications with clean UI
+- Fun Fact: I enjoy turning ideas into interactive web applications.
+
+---
+
+## Tech Stack
+
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Bootstrap
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## Connect with Me
+
+- [Mail](sethulakshmivs2k03@gmail.com)
+- [LinkedIn](www.linkedin.com/in/sethulakshmivs)
